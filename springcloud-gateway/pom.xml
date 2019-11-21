@@ -9,9 +9,9 @@
 		<artifactId>springcloud</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<artifactId>springcloud-service-gateway</artifactId>
+	<artifactId>springcloud-gateway</artifactId>
 	<packaging>war</packaging>
-	<name>springcloud-service-gateway Maven Webapp</name>
+	<name>springcloud-gateway Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
