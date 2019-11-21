@@ -10,7 +10,7 @@
 		<version>1.0.0</version>
 	</parent>
 	<artifactId>springcloud-service-hi</artifactId>
-	<name>springcloud-service-hi Maven Webapp</name>
+	<name>springcloud-service-hi</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>

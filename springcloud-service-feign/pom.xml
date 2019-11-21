@@ -11,7 +11,7 @@
 	</parent>
 	<artifactId>springcloud-service-feign</artifactId>
 	<packaging>war</packaging>
-	<name>springcloud-service-feign Maven Webapp</name>
+	<name>springcloud-service-feign</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
