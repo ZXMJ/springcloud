@@ -61,5 +61,7 @@
 		<module>springcloud-service-hi</module>
 		<module>springcloud-service-ribbon</module>
 		<module>springcloud-eureka-server</module>
+		<module>springcloud-service-feign</module>
+		<module>springcloud-service-gateway</module>
 	</modules>
 </project>
